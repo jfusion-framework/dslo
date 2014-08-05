@@ -7,7 +7,7 @@
     "license": "GPL-2.0+",
     "require": {
         "php": ">=5.3.10",
-        "jfusion/api": "~1.0",
+        "jfusion/api": ">=1.0",
         "joomla/language": "~1.0"
     },
     "autoload": {
