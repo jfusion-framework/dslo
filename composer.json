@@ -14,5 +14,6 @@
         "psr-4": {
             "JFusion\\Dslo\\": "src/"
         }
-    }
+    },
+    "minimum-stability" : "beta"
 }
